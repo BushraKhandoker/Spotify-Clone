@@ -29,5 +29,3 @@ https://github.com/BushraKhandoker/Spotify-Clone.git
 
 ---
 
-## 📂 Folder Structure
-
