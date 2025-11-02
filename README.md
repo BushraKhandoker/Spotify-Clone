@@ -7,7 +7,7 @@ This project recreates the look and feel of Spotify’s sleek user interface, fo
 
 ## 🚀 Link
 
-
+https://github.com/BushraKhandoker/Spotify-Clone.git
 
 ---
 
